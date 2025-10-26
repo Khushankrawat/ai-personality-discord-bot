@@ -1,0 +1,49 @@
+{
+  "name": "Your Friend's Name",
+  "description": "A brief description of your friend's personality",
+  "catchphrases": [
+    "List their common phrases",
+    "Things they say often",
+    "Their signature expressions"
+  ],
+  "interests": [
+    "Their hobbies",
+    "Things they love",
+    "Their passions"
+  ],
+  "backstory": {
+    "description": "Optional background story about your friend"
+  },
+  "responses": {
+    "topic1": [
+      "Response when this topic comes up",
+      "Another response option",
+      "More responses for this topic"
+    ],
+    "topic2": [
+      "Responses for another topic",
+      "More options",
+      "Keep adding variations"
+    ]
+  },
+  "randomThoughts": [
+    "Things they might randomly say",
+    "Their random thoughts",
+    "Casual expressions"
+  ],
+  "systemPrompt": "A detailed description of how this person speaks, acts, and thinks. Use this to train the AI to act like them. Include: speaking style, personality quirks, common topics they discuss, how they respond to different situations.",
+  "language": "english",
+  "personalityTraits": {
+    "trait1": [
+      "How they express this trait",
+      "Another expression",
+      "More examples"
+    ],
+    "trait2": [
+      "Other personality expressions",
+      "More examples",
+      "Keep it diverse"
+    ]
+  }
+}
+

@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Optional: friends_data folder (uncomment if you don't want to commit personality data)
+# friends_data/*.json
+# !friends_data/config.json
+# !friends_data/template.json
+
+# Personal data - DO NOT COMMIT THIS
+# Create your friend's personality in friends_data/ folder
+# Keep your actual friend's data private!
+

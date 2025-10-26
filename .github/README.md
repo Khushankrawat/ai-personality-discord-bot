@@ -7,7 +7,6 @@ A customizable Discord bot template that can act like your friends using AI!
 - **[Quick Start Guide](QUICKSTART.md)** - Get running in 5 minutes
 - **[Complete Setup](SETUP.md)** - Detailed setup instructions
 - **[Security Guide](SECURITY.md)** - GitHub deployment safety
-- **[Contributing](CONTRIBUTING.md)** - How to contribute
 
 ## 📖 Documentation
 
@@ -63,7 +62,6 @@ See `friends_data/example.json` for a complete example!
 ├── 📄 SETUP.md            - Complete setup guide
 ├── 📄 README.md           - Project overview
 ├── 📄 SECURITY.md         - Security practices
-├── 📄 CONTRIBUTING.md     - How to contribute
 └── 📁 friends_data/
     ├── 📄 config.json     - Active friend
     ├── 📄 template.json   - Personality template
@@ -93,9 +91,6 @@ See `friends_data/example.json` for a complete example!
 - 📚 **Well Documented** - Complete guides
 - 🔧 **Template Ready** - GitHub safe
 
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details!
 
 ---
 

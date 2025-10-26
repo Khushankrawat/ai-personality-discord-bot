@@ -4,16 +4,16 @@ A customizable Discord bot template that can act like your friends using AI!
 
 ## 🚀 Quick Links
 
-- **[Quick Start Guide](QUICKSTART.md)** - Get running in 5 minutes
-- **[Complete Setup](SETUP.md)** - Detailed setup instructions
-- **[Security Guide](SECURITY.md)** - GitHub deployment safety
+- **[Quick Start Guide](../QUICKSTART.md)** - Get running in 5 minutes
+- **[Complete Setup](../SETUP.md)** - Detailed setup instructions
+- **[Security Guide](../SECURITY.md)** - GitHub deployment safety
 
 ## 📖 Documentation
 
 ### Getting Started
-1. **[QUICKSTART.md](QUICKSTART.md)** - 5-minute setup
-2. **[SETUP.md](SETUP.md)** - Comprehensive setup guide
-3. **[README.md](README.md)** - Project overview
+1. **[QUICKSTART.md](../QUICKSTART.md)** - 5-minute setup
+2. **[SETUP.md](../SETUP.md)** - Comprehensive setup guide
+3. **[README.md](../README.md)** - Project overview
 
 ### Important Files
 - `friends_data/config.json` - Active friend configuration
@@ -22,7 +22,7 @@ A customizable Discord bot template that can act like your friends using AI!
 - `.env` - Environment variables (never commit!)
 
 ### Security
-- **[SECURITY.md](SECURITY.md)** - Security practices
+- **[SECURITY.md](../SECURITY.md)** - Security practices
 - `.gitignore` - Protects sensitive files
 - All sensitive data in `.env` (not committed)
 
@@ -70,9 +70,9 @@ See `friends_data/example.json` for a complete example!
 
 ## 🚀 Next Steps
 
-1. **Read [QUICKSTART.md](QUICKSTART.md)** - Get running fast
-2. **Follow [SETUP.md](SETUP.md)** - Complete setup
-3. **Check [SECURITY.md](SECURITY.md)** - Before GitHub upload
+1. **Read [QUICKSTART.md](../QUICKSTART.md)** - Get running fast
+2. **Follow [SETUP.md](../SETUP.md)** - Complete setup
+3. **Check [SECURITY.md](../SECURITY.md)** - Before GitHub upload
 4. **Customize personality** - Make it your own!
 
 ## ⚠️ Important Notes

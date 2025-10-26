@@ -1,4 +1,4 @@
-# Complete Setup Guide 🚀
+# Complete Setup Guide 
 
 This guide will help you set up your AI Friend Discord Bot from scratch.
 
@@ -34,8 +34,8 @@ Before you start, you'll need:
 1. In the left sidebar, click **"Bot"**
 2. Click **"Add Bot"** and confirm
 3. Under **"Privileged Gateway Intents"**, enable:
-   - ✅ **Message Content Intent** (required for reading messages)
-   - ✅ **Server Members Intent** (optional, for user detection)
+   -  **Message Content Intent** (required for reading messages)
+   -  **Server Members Intent** (optional, for user detection)
 4. Save your changes
 
 ### Step 3: Get Your Bot Token
@@ -43,20 +43,20 @@ Before you start, you'll need:
 1. Still in the **"Bot"** section
 2. Click **"Reset Token"** (if this is your first time, you'll see the token directly)
 3. **COPY THE TOKEN** - You'll need this for your `.env` file
-4. ⚠️ **Keep this secret!** Don't share it publicly
+4.  **Keep this secret!** Don't share it publicly
 
 ### Step 4: Invite Bot to Your Server
 
 1. Go to **"OAuth2" > "URL Generator"** in the left sidebar
 2. Under **"Scopes"**, select:
-   - ✅ `bot`
-   - ✅ `applications.commands`
+   -  `bot`
+   -  `applications.commands`
 3. Under **"Bot Permissions"**, select:
-   - ✅ Send Messages
-   - ✅ Use Slash Commands
-   - ✅ Read Message History
-   - ✅ Add Reactions
-   - ✅ Embed Links
+   -  Send Messages
+   -  Use Slash Commands
+   -  Read Message History
+   -  Add Reactions
+   -  Embed Links
 4. **Copy the generated URL** at the bottom
 5. Open the URL in your browser
 6. Select your Discord server
@@ -219,11 +219,11 @@ npm start
 
 ### Bot Not Responding?
 
-1. ✅ Check bot token in `.env` is correct
-2. ✅ Verify bot has proper permissions in server
-3. ✅ Ensure "Message Content Intent" is enabled
-4. ✅ Check bot is online in server member list
-5. ✅ Look for errors in console
+1.  Check bot token in `.env` is correct
+2.  Verify bot has proper permissions in server
+3.  Ensure "Message Content Intent" is enabled
+4.  Check bot is online in server member list
+5.  Look for errors in console
 
 ### "Failed to load configuration" Error
 
@@ -314,11 +314,11 @@ pm2 startup  # Auto-start on reboot
 
 ## Next Steps
 
-- ✅ Customize your friend's personality in `friends_data/`
-- ✅ Add more catchphrases and responses
-- ✅ Test different AI models
-- ✅ Invite the bot to more servers!
-- ✅ Share with friends (they can use the same template for their friends!)
+-  Customize your friend's personality in `friends_data/`
+-  Add more catchphrases and responses
+-  Test different AI models
+-  Invite the bot to more servers!
+-  Share with friends (they can use the same template for their friends!)
 
 ## Need Help?
 
@@ -329,5 +329,5 @@ pm2 startup  # Auto-start on reboot
 
 ---
 
-Happy botting! 🤖
+Happy botting! 
 

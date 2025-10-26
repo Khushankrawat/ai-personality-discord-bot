@@ -2,7 +2,7 @@
 
 A customizable Discord bot template that can act like your friends using AI!
 
-## 🚀 Quick Links
+##  Quick Links
 
 - **[Quick Start Guide](../QUICKSTART.md)** - Get running in 5 minutes
 - **[Complete Setup](../SETUP.md)** - Detailed setup instructions
@@ -26,14 +26,14 @@ A customizable Discord bot template that can act like your friends using AI!
 - `.gitignore` - Protects sensitive files
 - All sensitive data in `.env` (not committed)
 
-## 🎯 Key Features
+##  Key Features
 
-- ✅ **AI-Powered** - Uses OpenAI or local Ollama
-- ✅ **Conversation Memory** - Remembers context
-- ✅ **Emotional Intelligence** - Detects and responds to emotions
-- ✅ **Fully Customizable** - Easy personality configuration
-- ✅ **GitHub Ready** - No hardcoded secrets
-- ✅ **Template-Based** - Reusable for anyone
+-  **AI-Powered** - Uses OpenAI or local Ollama
+-  **Conversation Memory** - Remembers context
+-  **Emotional Intelligence** - Detects and responds to emotions
+-  **Fully Customizable** - Easy personality configuration
+-  **GitHub Ready** - No hardcoded secrets
+-  **Template-Based** - Reusable for anyone
 
 ## 💡 Usage
 
@@ -54,45 +54,45 @@ Edit `friends_data/[yourfriend].json` with:
 
 See `friends_data/example.json` for a complete example!
 
-## 📚 Documentation Structure
+##  Documentation Structure
 
 ```
-📁 Project Root
-├── 📄 QUICKSTART.md      - 5-minute setup
-├── 📄 SETUP.md            - Complete setup guide
-├── 📄 README.md           - Project overview
-├── 📄 SECURITY.md         - Security practices
-└── 📁 friends_data/
-    ├── 📄 config.json     - Active friend
-    ├── 📄 template.json   - Personality template
-    └── 📄 example.json    - Example (Alex)
+ Project Root
+├──  QUICKSTART.md      - 5-minute setup
+├──  SETUP.md            - Complete setup guide
+├──  README.md           - Project overview
+├──  SECURITY.md         - Security practices
+└──  friends_data/
+    ├──  config.json     - Active friend
+    ├──  template.json   - Personality template
+    └──  example.json    - Example (Alex)
 ```
 
-## 🚀 Next Steps
+##  Next Steps
 
 1. **Read [QUICKSTART.md](../QUICKSTART.md)** - Get running fast
 2. **Follow [SETUP.md](../SETUP.md)** - Complete setup
 3. **Check [SECURITY.md](../SECURITY.md)** - Before GitHub upload
 4. **Customize personality** - Make it your own!
 
-## ⚠️ Important Notes
+##  Important Notes
 
-- ✅ `.env` is in `.gitignore` - Your secrets are safe
-- ✅ All sensitive data is in `.env` only
-- ✅ Safe to upload to GitHub
-- ❌ Never commit `.env` file
-- ❌ Never commit real tokens
+-  `.env` is in `.gitignore` - Your secrets are safe
+-  All sensitive data is in `.env` only
+-  Safe to upload to GitHub
+-  Never commit `.env` file
+-  Never commit real tokens
 
-## 📝 Template Features
+##  Template Features
 
-- 🔒 **Secure** - No hardcoded secrets
-- 🎭 **Customizable** - Easy personality setup
-- 🤖 **AI Powered** - Intelligent conversations
-- 📚 **Well Documented** - Complete guides
-- 🔧 **Template Ready** - GitHub safe
+-  **Secure** - No hardcoded secrets
+-  **Customizable** - Easy personality setup
+-  **AI Powered** - Intelligent conversations
+-  **Well Documented** - Complete guides
+-  **Template Ready** - GitHub safe
 
 
 ---
 
-**Made with ❤️ for creating AI friends on Discord**
+**Made with  for creating AI friends on Discord**
 

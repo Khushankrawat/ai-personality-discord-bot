@@ -1,24 +1,24 @@
-# AI Friend Discord Bot Template 🤖
+# AI Friend Discord Bot Template 
 
 A customizable Discord bot template that can act like your friends using AI! This bot learns from personality data and creates organic, contextual conversations.
 
-## 📝 What You'll Need
+##  What You'll Need
 
 - **Discord Account** (free) - https://discord.com
 - **Node.js** (v16+) - https://nodejs.org
 - **A Discord Bot Token** - Get it from [Discord Developer Portal](https://discord.com/developers/applications) in 2 minutes
 
-## ✨ Features
+##  Features
 
-- **🤖 AI-Powered Organic Responses** using OpenAI GPT-3.5-turbo or local Ollama
-- **🧠 Conversation Memory System** - Remembers previous messages for intelligent responses
-- **💭 Intelligent Question Generation** - Asks follow-up questions to keep conversations flowing
-- **🎯 Context Awareness** - Understands conversation topics and responds appropriately
-- **❤️ Emotional Intelligence** - Detects user mood and responds empathetically
-- **🎭 Fully Customizable** - Configure personalities in `friends_data/` folder
-- **🔒 Security-First** - Template-ready for GitHub with no hardcoded values
+- ** AI-Powered Organic Responses** using OpenAI GPT-3.5-turbo or local Ollama
+- ** Conversation Memory System** - Remembers previous messages for intelligent responses
+- ** Intelligent Question Generation** - Asks follow-up questions to keep conversations flowing
+- ** Context Awareness** - Understands conversation topics and responds appropriately
+- ** Emotional Intelligence** - Detects user mood and responds empathetically
+- ** Fully Customizable** - Configure personalities in `friends_data/` folder
+- ** Security-First** - Template-ready for GitHub with no hardcoded values
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone & Install
 ```bash
@@ -35,7 +35,7 @@ npm install
 4. Enable **"Message Content Intent"** under "Privileged Gateway Intents"
 5. Click **"Reset Token"** → Copy the token
 
-⚠️ **Keep your token secret!** Never share it publicly.
+ **Keep your token secret!** Never share it publicly.
 
 ### 3. Set Up Environment
 ```bash
@@ -75,7 +75,7 @@ Or just use the example: `friends_data/example.json`
 npm start
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-friend-discord-bot/
@@ -90,7 +90,7 @@ ai-friend-discord-bot/
 └── README.md               # This file
 ```
 
-## 🎭 Creating a Personality
+##  Creating a Personality
 
 Edit `friends_data/yourfriend.json`:
 
@@ -148,7 +148,7 @@ You: I'm good
 Bot: That's awesome! [personality-specific response]
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables (`.env`)
 ```env
@@ -164,7 +164,7 @@ OPENAI_API_KEY=your_api_key  # Optional
 }
 ```
 
-## 🛠️ Advanced Features
+##  Advanced Features
 
 ### AI Models
 - **OpenAI GPT-3.5-turbo** (default) - Best quality, paid
@@ -186,7 +186,7 @@ Configure multiple personality aspects:
 - Provides empathetic responses
 - Manages topic transitions
 
-## 📚 Setup Guide
+##  Setup Guide
 
 See [SETUP.md](SETUP.md) for detailed setup instructions including:
 - Discord bot creation
@@ -194,20 +194,20 @@ See [SETUP.md](SETUP.md) for detailed setup instructions including:
 - Ollama installation
 - Deployment options
 
-## 🔒 Security for GitHub
+##  Security for GitHub
 
 This template is GitHub-ready:
-- ✅ No hardcoded tokens
-- ✅ No sensitive data committed
-- ✅ `.env` in `.gitignore`
-- ✅ Template files only
-- ✅ Example personalities are safe to share
+-  No hardcoded tokens
+-  No sensitive data committed
+-  `.env` in `.gitignore`
+-  Template files only
+-  Example personalities are safe to share
 
-## 📄 License
+##  License
 
 MIT License - Feel free to use and modify!
 
-## 🙏 Credits
+##  Credits
 
 Built with:
 - [Discord.js](https://discord.js.org/)

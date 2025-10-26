@@ -1,23 +1,23 @@
-# Security Guide 🔒
+# Security Guide 
 
 ## For GitHub Deployment
 
 This template is designed to be safe for public GitHub repositories.
 
-### ✅ What's Safe to Commit
+###  What's Safe to Commit
 
-- ✅ All code files (`index.js`, `config-loader.js`)
-- ✅ Configuration templates (`env.example`, `template.json`)
-- ✅ Documentation (`README.md`, `SETUP.md`)
-- ✅ Example personalities (`friends_data/example.json`)
-- ✅ `.gitignore` file
+-  All code files (`index.js`, `config-loader.js`)
+-  Configuration templates (`env.example`, `template.json`)
+-  Documentation (`README.md`, `SETUP.md`)
+-  Example personalities (`friends_data/example.json`)
+-  `.gitignore` file
 
-### ❌ Never Commit
+###  Never Commit
 
-- ❌ `.env` file (contains your Discord bot token)
-- ❌ Actual Discord bot token
-- ❌ OpenAI API keys
-- ❌ Personal friend data (unless they're okay with it being public)
+-  `.env` file (contains your Discord bot token)
+-  Actual Discord bot token
+-  OpenAI API keys
+-  Personal friend data (unless they're okay with it being public)
 
 ### 🔐 Environment Variables
 
@@ -38,18 +38,18 @@ All sensitive data is stored in `.env`, which is in `.gitignore`:
 5. Update your `.env` file with new token
 
 **Protect your bot:**
-- ✅ Never commit `.env` file
-- ✅ Don't share tokens in screenshots
-- ✅ Use environment variables in production
-- ✅ Regenerate tokens if leaked
+-  Never commit `.env` file
+-  Don't share tokens in screenshots
+-  Use environment variables in production
+-  Regenerate tokens if leaked
 
-### 📝 Template Safety
+###  Template Safety
 
 This template:
-- ✅ No hardcoded tokens or sensitive data
-- ✅ All configurable values in files
-- ✅ Safe to share on GitHub
-- ✅ Ready for multiple users to customize
+-  No hardcoded tokens or sensitive data
+-  All configurable values in files
+-  Safe to share on GitHub
+-  Ready for multiple users to customize
 
 ## For Users
 
@@ -138,5 +138,5 @@ If you suspect your bot token is compromised:
 
 ---
 
-**Remember**: Security is everyone's responsibility. When in doubt, don't commit it! 🔒
+**Remember**: Security is everyone's responsibility. When in doubt, don't commit it! 
 

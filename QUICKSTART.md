@@ -1,4 +1,4 @@
-# Quick Start Guide 🚀
+# Quick Start Guide 
 
 Get your bot running in 5 minutes!
 
@@ -15,11 +15,11 @@ npm install
 2. Click **"New Application"** → Give it a name (e.g., "My Friend Bot")
 3. Click **"Bot"** in the left sidebar → Click **"Add Bot"** → Click **"Yes, do it!"**
 4. Under **"Privileged Gateway Intents"**, enable:
-   - ✅ **Message Content Intent** (required!)
+   -  **Message Content Intent** (required!)
 5. Click **"Reset Token"** → Click **"Yes, do it!"**
 6. **COPY THE TOKEN** - This is your `DISCORD_TOKEN`!
 
-⚠️ **Keep this secret!** This is like a password for your bot.
+ **Keep this secret!** This is like a password for your bot.
 
 ### What is a Bot Token?
 Your bot token is a secret code that lets your bot connect to Discord. It's like a password that proves the bot is yours. Never share it publicly!
@@ -74,10 +74,10 @@ The bot should respond!
 
 ## What's Next?
 
-- ✅ Customize your friend's personality in `friends_data/example.json`
-- ✅ Add multiple friends in `friends_data/`
-- ✅ Switch between friends in `friends_data/config.json`
-- ✅ Deploy for 24/7 hosting (see SETUP.md)
+-  Customize your friend's personality in `friends_data/example.json`
+-  Add multiple friends in `friends_data/`
+-  Switch between friends in `friends_data/config.json`
+-  Deploy for 24/7 hosting (see SETUP.md)
 
 ## Need Help?
 
@@ -103,5 +103,5 @@ The bot should respond!
 
 ---
 
-That's it! You're ready to chat with your AI friend! 🤖
+That's it! You're ready to chat with your AI friend! 
 

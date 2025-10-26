@@ -203,11 +203,6 @@ This template is GitHub-ready:
 - ✅ Template files only
 - ✅ Example personalities are safe to share
 
-## 🤝 Contributing
-
-Feel free to submit issues or PRs! Want to add more personality examples? 
-Create a new `.json` file in `friends_data/` and submit a PR!
-
 ## 📄 License
 
 MIT License - Feel free to use and modify!

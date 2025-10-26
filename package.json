@@ -1,5 +1,5 @@
 {
-  "name": "ai-friend-discord-bot",
+  "name": "ai-personality-discord-bot",
   "version": "2.0.0",
   "description": "A customizable Discord bot template that can act like your friends using AI",
   "main": "index.js",
